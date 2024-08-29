@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Nitish Kumar from new Delhi<br><br>🔭 I’m working as a backend developer at DeepMindz Innovative Pvt Ltd and DLT Labs, where I design and build innovative server-side solutions. My work includes developing a groundbreaking Real Estate super app with a unique Map draw functionality and optimizing loan processes through an NBFC Credit Engine.</p>
+<p align="left">I'm Nitish Kumar from New Delhi<br><br>🔭 I’m working as a backend developer at DeepMindz Innovative Pvt Ltd and DLT Labs, where I design and build innovative server-side solutions. My work includes developing a groundbreaking Real Estate super app with a unique Map draw functionality and optimizing loan processes through an NBFC Credit Engine.</p>
 
 ###
 
@@ -58,17 +58,6 @@
 <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=nitish0798&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish0798&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 ###
-
-
-### 📊 Github Stats
-<a href='https://github.com/nitish0798/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/nitish0798/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/nitish0798/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
 
 
 
