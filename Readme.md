@@ -1,66 +1,101 @@
+<h1 align="center">👋 Hi, I'm Nitish Kumar</h1>
+<h3 align="center">Senior Backend Engineer | Java | Spring Boot | Node.js | Python | AWS | System Design</h3>
 
-###
+---
 
-<h1 align="center">Hi 👋, I'm Nitish</h1>
+### 🧭 Professional Summary
 
-###
+I’m a **Backend Engineer** with 4+ years of experience designing **scalable, fault-tolerant**, and **data-driven systems**.  
+Currently working at **DeepMindz Innovations Pvt. Ltd.**, where I build production-grade platforms combining **PropTech**, **FinTech**, and **AI-backed decision systems**.
 
-<h3 align="left">👩‍💻  About Me</h3>
+I specialize in **microservices architecture**, **system scalability**, and **AI-assisted backend optimization**.
 
-###
+---
 
-<p align="left">I'm Nitish Kumar from New Delhi<br><br>🔭 I’m working as a backend developer at DeepMindz Innovative Pvt Ltd and DLT Labs, where I design and build innovative server-side solutions. My work includes developing a groundbreaking Real Estate super app with a unique Map draw functionality and optimizing loan processes through an NBFC Credit Engine.</p>
+### 🧰 Technical Stack
 
-###
+#### 💻 Languages
+![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![C++](https://img.shields.io/badge/-C++-000?logo=c%2b%2b)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)
 
-<h3 align="left">🛠 Language and tools</h3>
+#### ⚙️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?logo=springboot)
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+![Redis](https://img.shields.io/badge/-Redis-000?logo=redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?logo=elasticsearch)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000?logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
 
-###
+#### 🧠 Python Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?logo=numpy)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
+![asyncio](https://img.shields.io/badge/-asyncio-000)
+![multiprocessing](https://img.shields.io/badge/-multiprocessing-000)
 
-### Languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+---
 
-### Technologies
+### 🏗️ Key Projects
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+#### 🏡 JustHomz – PropFintech Platform
+- Designed and developed a **Credit Engine** to assess NBFC loan eligibility  
+- Integrated **Finbox** and **Karza APIs** for ITR and device data verification  
+- Built **map-based property discovery** using PostGIS & Elasticsearch  
+- Used **Redis caching** and async pipelines to boost query performance  
 
+#### 🚚 Freight Asset Management – DLT Labs
+- Designed microservices for **real-time logistics tracking**  
+- Improved event-driven architecture performance by **35%**  
+- Implemented **data streaming**, **Redis caching**, and **optimized queries**
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🧩 Current Focus
+- **LLM-integrated Backend APIs** using Python & FastAPI  
+- **Event-driven microservices** using Spring Boot and Node.js  
+- **System design** for high-concurrency, low-latency environments  
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=knitish91&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitishdeepmindz&show_icons=true&theme=merko&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishdeepmindz&theme=merko&hide_border=true" />
 </div>
 
-###
-<a href="">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=knitish91&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
-<!--   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knitish91&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
-</a>
+---
 
-###
+### 🔗 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/knitish91/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nitish827691@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-###
+### 🌍 Explore My Developer Portfolio
+🔗 Visit my personal GitHub for open-source and creative projects → [@knitish91](https://github.com/knitish91)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=knitish91.knitish91&"  />
+---
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitishdeepmindz&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</p>
