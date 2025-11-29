@@ -1,20 +1,28 @@
 <h1 align="center">👋 Hi, I'm Nitish Kumar</h1>
-<h3 align="center">Senior Backend Engineer | Java | Spring Boot | Node.js | Python | AWS | System Design</h3>
+<h3 align="center">Senior Backend Engineer | Java | Spring Boot | Node.js | Python | AWS | Distributed Systems</h3>
 
 ---
 
-### 🧭 Professional Summary
+## 🧭 About Me
 
-I’m a **Backend Engineer** with 4+ years of experience designing **scalable, fault-tolerant**, and **data-driven systems**.  
-Currently working at **DeepMindz Innovations Pvt. Ltd.**, where I build production-grade platforms combining **PropTech**, **FinTech**, and **AI-backed decision systems**.
+I am a **Senior Backend Engineer** with 4+ years of experience building **high-performance, scalable**, and **distributed backend systems**.  
+At **DeepMindz Innovations Pvt. Ltd.**, I work across **PropTech**, **FinTech**, and **AI-driven risk assessment** products—designing systems that handle real-time data, heavy read/write traffic, and enterprise-level decision automation.
 
-I specialize in **microservices architecture**, **system scalability**, and **AI-assisted backend optimization**.
+My work revolves around:
+
+- **Backend architecture & microservices**
+- **High-concurrency systems**
+- **Event-driven, async workflows**
+- **Search, caching, and real-time data processing**
+- **Low-latency, high-throughput applications**
+
+I enjoy transforming complex problem statements into **clean, modular, and production-grade systems**.
 
 ---
 
-### 🧰 Technical Stack
+## 🧰 Technical Expertise
 
-#### 💻 Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
@@ -22,7 +30,7 @@ I specialize in **microservices architecture**, **system scalability**, and **AI
 ![C++](https://img.shields.io/badge/-C++-000?logo=c%2b%2b)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)
 
-#### ⚙️ Frameworks & Tools
+### ⚙️ Backend Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?logo=springboot)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
@@ -36,9 +44,7 @@ I specialize in **microservices architecture**, **system scalability**, and **AI
 ![AWS](https://img.shields.io/badge/-AWS-000?logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
 
-#### 🧠 Python Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+### 🧠 Python & Data Stack
 ![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?logo=numpy)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
@@ -47,29 +53,43 @@ I specialize in **microservices architecture**, **system scalability**, and **AI
 
 ---
 
-### 🏗️ Key Projects
+## 🏗️ Major Projects & Impact
 
-#### 🏡 JustHomz – PropFintech Platform
-- Designed and developed a **Credit Engine** to assess NBFC loan eligibility  
-- Integrated **Finbox** and **Karza APIs** for ITR and device data verification  
-- Built **map-based property discovery** using PostGIS & Elasticsearch  
-- Used **Redis caching** and async pipelines to boost query performance  
+### 🏡 **JustHomz – India's First PropFinTech Platform**
+A full-scale PropFinTech ecosystem connecting buyers, agents, and lenders.
 
-#### 🚚 Freight Asset Management – DLT Labs
-- Designed microservices for **real-time logistics tracking**  
-- Improved event-driven architecture performance by **35%**  
-- Implemented **data streaming**, **Redis caching**, and **optimized queries**
+**Core Contributions:**
 
----
-
-### 🧩 Current Focus
-- **LLM-integrated Backend APIs** using Python & FastAPI  
-- **Event-driven microservices** using Spring Boot and Node.js  
-- **System design** for high-concurrency, low-latency environments  
+- Designed a **Credit Engine** that analyzes ITR data, device signals, banking patterns, fraud likelihood, and income stability using APIs from **Finbox, Karza**, and internal models.
+- Built **dynamic loan eligibility formulas**, interest rate computation, and risk scoring using modular sub-engines (Banking, Bureau, User Validation).
+- Used **PostGIS + Elasticsearch** to implement map-based property search and geo-filtering.
+- Built **in-app chat, calling, partner apps**, and **matchmaking algorithms**.
+- Achieved major performance boosts with **Redis caching**, async pipelines, and optimized querying.
 
 ---
 
-### 📊 GitHub Stats
+### 🚚 **Freight Asset Management – DLT Labs**
+A logistics platform enabling **real-time freight & asset tracking**.
+
+**Impact Delivered:**
+
+- Designed scalable microservices for location tracking, ETA prediction, and event-based alerts.
+- Optimized the event-driven pipeline (Kafka → Redis → Mongo → Reports), improving throughput by **35%**.
+- Implemented resilient APIs with caching, debouncing, batching, and async workers.
+
+---
+
+## 🧩 What I’m Working On Now
+
+- LLM-driven backend intelligence (Python + FastAPI)  
+- High-concurrency distributed systems  
+- Search optimization using Elasticsearch + Redis  
+- Event-driven microservices with Java & Node.js  
+- Designing systems that scale to millions of requests  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitishdeepmindz&show_icons=true&theme=merko&hide_border=true&count_private=true" />
@@ -78,7 +98,7 @@ I specialize in **microservices architecture**, **system scalability**, and **AI
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/knitish91/" target="_blank">
@@ -91,8 +111,8 @@ I specialize in **microservices architecture**, **system scalability**, and **AI
 
 ---
 
-### 🌍 Explore My Developer Portfolio
-🔗 Visit my personal GitHub for open-source and creative projects → [@knitish91](https://github.com/knitish91)
+## 🌍 Explore My Developer Portfolio
+🔗 Visit my alternate GitHub account for creative and open-source projects → **[@knitish91](https://github.com/knitish91)**
 
 ---
 
